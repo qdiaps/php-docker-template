@@ -1,3 +1,12 @@
+
+- Docker compose
+- Makefile
+- PHP-FPM
+    - Composer
+    - XDebug
+- Nginx
+- PostgreSQL
+
 # Install
 
 ```bash
